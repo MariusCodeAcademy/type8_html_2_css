@@ -1,0 +1,36 @@
+body {
+  /* background-color: black; */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #f3f3f3;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(236, 121, 44);
+  font-weight: normal;
+}
+
+p {
+  color: gray;
+  font-family: initial;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+li {
+  color: gray;
+  font-family: initial;
+}
+
+/* 
+h3 = selektorius
+{ 
+  savybe: reiksme;
+}
+*/
+h3 {
+  color: rgb(236, 121, 44);
+  font-weight: normal;
+}
