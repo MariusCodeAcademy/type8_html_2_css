@@ -1,0 +1,16 @@
+/* select all elements */
+* {
+  border: 1px dashed gray;
+}
+
+/* Background spalva =============================================== */
+body {
+  background-color: rgb(230 214 214);
+}
+
+/* Antrastes =============================================== */
+
+h2 {
+  font-weight: normal;
+  font-style: italic;
+}
