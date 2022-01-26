@@ -1,6 +1,6 @@
 /* select all elements */
 * {
-  border: 1px dashed gray;
+  /* border: 1px dashed gray; */
 }
 
 /* Background spalva =============================================== */
@@ -13,4 +13,16 @@ body {
 h2 {
   font-weight: normal;
   font-style: italic;
+}
+
+.image {
+  width: 100%;
+  height: 200px;
+  /* background-color: white;
+  background-image: url('small.jfif');
+  background-repeat: no-repeat;
+  background-position: center; */
+  /* shorthand syntax */
+  background: white url('small.jfif') no-repeat center;
+  background-size: cover;
 }
